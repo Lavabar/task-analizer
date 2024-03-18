@@ -1,0 +1,5 @@
+outs:
+- md5: 64baa6ba63837925a6828d38da962dce
+  size: 6479556706
+  hash: md5
+  path: mongodump-JiraRepos.archive
