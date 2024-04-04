@@ -10,6 +10,8 @@ python = "^3.12"
 dvc = "^3.48.4"
 pymongo = "^4.6.2"
 pandas = "^2.2.1"
+dvclive = "^3.45.0"
+jupyter = "^1.0.0"
 
 
 [build-system]
